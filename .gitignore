@@ -1,0 +1,47 @@
+# Env files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Coverage (optional)
+.coverage
+htmlcov/
+
+# Jev agent artifacts
+resume_profile.json
+jev_score_cache.json
+jev_prefilter_cache.json
+jev_applied_jobs.csv
+
+# Naukri session token + dedicated Chrome profile
+.naukri_session.json
+.chrome-naukri-profile/
+
+# Personal documents — resume PDFs (never publish to a public repo)
+resume*.pdf
+applied_jobs.csv

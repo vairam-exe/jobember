@@ -1,0 +1,9 @@
+requests
+urllib3
+python-dotenv
+selenium
+pycryptodome 
+colorama
+httpcloak==1.6.1
+curl_cffi==0.15.0
+pypdf
